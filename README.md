@@ -8,4 +8,4 @@ you need to install PhantomJS and php
 # TRY
 you can test on this server
 http://cs.charles-loiseau.fr/esea/index.php?esea_id=MY_ESEA_ID
-# CARE ESEA SERVER NEED 5 SEC TO CONNECT SO THE RESULT TAKE TIME ~5-6 Sec
+# CARE ESEA SERVER NEED 5 SEC TO CONNECT SO THE RESULT TAKE TIME ~5-6 Sec if sometime the nightbot timeout after just relunch the command
